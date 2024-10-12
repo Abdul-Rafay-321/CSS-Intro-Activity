@@ -1,0 +1,23 @@
+* {
+    font-family: cursive;
+}
+
+h3 {
+    color: coral;
+}
+
+/* Class Selectors */
+.my_class {
+    color: aqua;
+}
+
+/* Id Selectors */
+#my_id {
+    color: purple;
+}
+
+/* Group Selectors */
+h5,
+p {
+    color: brown;
+}
